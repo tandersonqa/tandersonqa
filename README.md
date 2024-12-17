@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tobias Anderson</h1>
 <h3 align="center">Test Automation Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dominik2208f&label=Profile%20views&color=0e75b6&style=flat" alt="tandersonqa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tandersonqa&label=Profile%20views&color=0e75b6&style=flat" alt="tandersonqa" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
