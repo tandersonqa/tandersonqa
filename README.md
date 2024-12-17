@@ -66,28 +66,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandersonqa&theme=radical" alt="GitHub Streak" />
 </p>
 
-
-.
-.
-
-..
-
-..
-
-
-//
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ### 🏆 **Skills & Expertise**
