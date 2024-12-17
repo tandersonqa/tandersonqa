@@ -1,10 +1,76 @@
-<h1 align="center">Hi 👋, I'm Tobias Anderson</h1>
-<h3 align="center">Test Automation Engineer</h3>
+## 🎉 **Hi there, I'm Tobias Anderson** 👋  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tandersonqa&label=Profile%20views&color=0e75b6&style=flat" alt="tandersonqa" /> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+#### **Senior QA Automation Engineer**
+
+---
+
+### 🌟 **About Me**
+- 💼 **12+ years of experience**, currently working as a **Senior QA Automation Engineer** at *Circle K Group Europe*.
+- 🧪 Specializing in **Java**, **Appium**, **React Native**, and **Security Testing** for mobile and web automation.
+- 🔐 Skilled in **Security Testing** to ensure applications are secure and GDPR-compliant.
+- 🚀 Passionate about designing and enhancing **test automation frameworks**, integrating **CI/CD pipelines**, and ensuring high-quality releases.
+- 🛠 Proficient in **API testing**, **debugging**, and Agile/Scrum workflows.
+
+---
+
+### ⚙️ **Languages and Tools**  
+
+<p align="center">
+  <!-- Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
+  
+  <!-- Selenium -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="50" alt="Selenium" />
+  
+  <!-- Appium -->
+  <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" height="50" alt="Appium" />
+  
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  
+  <!-- Playwright -->
+  <img src="https://playwright.dev/img/playwright-logo.svg" height="50" alt="Playwright" />
+  
+  <!-- JMeter -->
+  <img src="https://jmeter.apache.org/images/jmeter_square.svg" height="50" alt="JMeter" />
+      
+  <!-- Postman -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="50" alt="Postman" />
+  
+  <!-- Docker -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
+  
+  <!-- JIRA -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50" alt="JIRA" />
+  
+  <!-- Git -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+    
+  <!-- Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
+  
+  <!-- Azure -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="50" alt="Azure" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### 🔗 **Connect with Me**  
+<p align="center"> <a href="https://slack.com"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/> </a> </p>
+---
+
+### 📊 **GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tandersonqa&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tandersonqa&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 **Skills & Expertise**
+- **Test Automation** with **Java**, **Appium**, and **Selenium**.
+- **Security Testing** and ensuring GDPR-compliance.
+- **Mobile Automation** for Android and iOS.
+- **CI/CD Pipeline Integration** for faster and reliable testing.
+- Proficient in **API Testing** using Postman.
+- Strong experience in Agile/Scrum-based development environments.
