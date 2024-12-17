@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobiasandersonqa&label=Profile%20views&color=0e75b6&style=flat" alt="tobiasandersonqa" /> </p>
 
-
----
-
 ### 🌟 **About Me**
 - 💼 **12+ years of experience**, currently working as a **Senior QA Automation Engineer** at *Circle K Group Europe*.
 - 🧪 Specializing in **Java**, **Appium**, **React Native**, and **Security Testing** for mobile and web automation.
