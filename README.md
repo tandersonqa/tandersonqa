@@ -55,6 +55,7 @@
 
 ### 🔗 **Connect with Me**  
 <p align="center"> <a href="https://slack.com"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/> </a> </p>
+
 ---
 
 ### 📊 **GitHub Stats**  
