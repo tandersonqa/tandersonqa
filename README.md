@@ -63,7 +63,7 @@
 ### 📊 **GitHub Stats**  
 
 <a href="https://git.io/streak-stats">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=antonkomarev&theme=highcontrast&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=antonkomarev&theme=highcontrast&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
 <img height="137px" src="https://github-readme-stats.vercel.app/api?username=antonkomarev&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21&theme=highcontrast" />
 </a>
 
