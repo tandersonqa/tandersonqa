@@ -2,8 +2,6 @@
 
 #### **Senior QA Automation Engineer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=antonkomarev&label=Profile%20views&color=red&style=flat" alt="antonkomarev" /> </p>
-
 ### 🌟 **About Me**
 - 💼 **12+ years of experience**, currently working as a **Senior QA Automation Engineer** at *Circle K Group Europe*.
 - 🧪 Specializing in **Java**, **Appium**, **React Native**, and **Security Testing** for mobile and web automation.
@@ -57,18 +55,6 @@
 ![REST Assured](https://img.shields.io/badge/-REST%20Assured-000?&logo=rest-assured)
 ![JIRA](https://img.shields.io/badge/-JIRA-000?&logo=jira)
 ![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-000?&logo=azure-devops)
-
----
-
-### 📊 **GitHub Stats**  
-
-<a href="https://git.io/streak-stats">
-<img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=antonkomarev&theme=highcontrast&hide_border=true&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a" />
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=antonkomarev&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&line_height=21&theme=highcontrast" />
-</a>
-
-### 🔗 **Connect with Me**  
-<p align="center"> <a href="https://slack.com"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/> </a> </p>
 
 ---
 
